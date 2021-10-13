@@ -4,3 +4,4 @@ build-job:
     - echo "Hello, $GITLAB_USER_LOGIN!"
     - npm install
     - node . index.js
+    
